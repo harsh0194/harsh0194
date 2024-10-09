@@ -1,4 +1,4 @@
-Hi there, I'm Harsh Soni! 👋
+Hi there, I'm Harsh! 👋
 
 Welcome to my GitHub profile! I am a passionate IT professional with a strong background in cybersecurity, technical support, and networking. My expertise spans across various platforms and technologies, and I am always eager to learn new skills and take on new challenges.
 
